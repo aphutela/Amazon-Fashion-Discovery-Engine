@@ -52,6 +52,9 @@ We determined that the order of the best recommendation performance is as follow
 4. Idf
 5. CNN
 
+# Contact
+anshphutela.2012@gmail.com
+
 
 
 
